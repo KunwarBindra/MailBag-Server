@@ -1,0 +1,13 @@
+{
+  "smtp": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": { "user": "zoila.lockman33@ethereal.email", "pass": "uUjG9UJ8HT3xbZa8gd" }
+  },
+  "imap": {
+    "host": "imap.ethereal.email",
+    "port": 993,
+    "auth": { "user": "zoila.lockman33@ethereal.email", "pass": "uUjG9UJ8HT3xbZa8gd" }
+  }
+}
+
